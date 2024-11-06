@@ -1,0 +1,6 @@
+train: Bee_or_Wasp_Subset/train
+val: Bee_or_Wasp_Subset/validation
+test: Bee_or_Wasp_Subset/test
+
+nc: 2
+names: ['Bee', 'Wasp']
